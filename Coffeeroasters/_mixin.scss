@@ -1,0 +1,15 @@
+@mixin button(){
+    width: 217px;
+    height: 56px;
+    border-radius: 6px;
+    border-color: transparent;
+    background: #0E8784;
+    color: #FEFCF7;
+    text-align: center;
+    font-family: "Fraunces";
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 25px;  
+    margin-top: 10px;   
+    margin-left: 86px;
+}
